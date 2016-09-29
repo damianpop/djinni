@@ -23,6 +23,7 @@
             "type": "static_library",
             "xcode_settings": {
               "CLANG_ENABLE_OBJC_ARC": "YES",
+              "SKIP_INSTALL": "YES",
             },
             "sources": [
               "objc/DJICppWrapperCache+Private.h",
